@@ -96,7 +96,7 @@ key_password = yourPassword
 
 ```
 
-**Firebase and google-services.json**
+**Firebase and google-services.json***
 
 Setup Firebase for the different environment.
 Download the google-services.json for each of the environments and put it in the corresponding folder.
